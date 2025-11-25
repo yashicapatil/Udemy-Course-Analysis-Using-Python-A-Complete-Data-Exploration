@@ -103,3 +103,7 @@ Build a machine learning model to predict course popularity
 Create dashboards using Power BI / Tableau
 
 Deploy insights on a web app
+
+
+Author
+Yashica Patil
